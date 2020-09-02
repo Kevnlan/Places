@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Places Project</string>
+    <string name="permission">Permission Request</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
